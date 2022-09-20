@@ -1,4 +1,4 @@
-# LSTM Stock Forecasting
+# Stock Forecasting using LSTM model
 This LSTM model in python uses Tensorflow and Keras to predict values of a time series X number of steps into the future using a window of Y values from the past.
 
 This code is able to:
